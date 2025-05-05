@@ -60,7 +60,8 @@ Este repositório contém o desenvolvimento do projeto final da segunda etapa do
 
 ## Diagrama Entidade-Relacionamento (DER)
 
-[[![DER da Farmácia](https://raw.githubusercontent.com/luacrds/Projeto_Final_Bloco_02/main/diagramas/DER_FARMACIA.png)
+![Diagrama DER](https://raw.githubusercontent.com/luacrds/Projeto_Final_Bloco_02/main/DER_FARMACIA.png)
+
 
 
 
